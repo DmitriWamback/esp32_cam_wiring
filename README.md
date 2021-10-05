@@ -9,5 +9,6 @@
 <p>IO0 -> GND (Arduino)</p>
 <p>GND -> RESET</p>
 <p>5V -> 5V</p>
+
 ## Others
 Wiring with male to female jumper wires will (in my case) significantly improve the framerate
